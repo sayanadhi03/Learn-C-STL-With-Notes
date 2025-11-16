@@ -1,4 +1,4 @@
-//                C++ STL VECTOR FULL NOTES (UPDATED)
+//                C++ STL PAIR FULL NOTES (UPDATED)
 //      Created by: Sayan Adhikary (https://github.com/sayanadhi03)
 // ------------------------------------------------------------
 
