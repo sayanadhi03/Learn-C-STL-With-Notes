@@ -15,6 +15,8 @@ Created by: **Sayan Adhikary** ([GitHub Profile](https://github.com/sayanadhi03)
 - [About STL](#-about-stl)
 - [STL Components](#-stl-components)
 - [Project Structure](#-project-structure)
+ - [Additional notes](#additional-notes)
+ - [Algorithms index](ALGORITHMS.md)
 - [Getting Started](#-getting-started)
 - [Topics Covered](#-topics-covered)
 - [Code Examples](#-code-examples)
@@ -154,10 +156,23 @@ Learn C++ STL With Notes (Basic to Advance)/
 │
 ├── 📂 FUNCTORS/
 │   └── 📄 functor.cpp             # Function objects
-│
+
+├── 📂 sorting_stl_note/
+│   └── 📄 sorting.cpp             # Sorting algorithms & comparators
+
+├── 📂 other_algorithms_note/
+│   └── 📄 algo.cpp                # Miscellaneous STL algorithms (reverse, binary_search, popcount, ...)
+
 └── 📂 auto explain in loops/
     └── 📄 auto.cpp                # Auto keyword usage
 ```
+
+## Additional notes
+
+- `sorting_stl_note/sorting.cpp` — detailed sorting examples (ascending/descending, pairs, custom comparators) with inline expected outputs.
+- `other_algorithms_note/algo.cpp` — practical algorithm snippets: `reverse`, `next_permutation`, `max_element`/`min_element`, `binary_search`, and `__builtin_popcount` examples.
+
+Run these example files to see console output and verify results against the inline comments.
 
 ---
 
