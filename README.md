@@ -17,6 +17,7 @@ Created by: **Sayan Adhikary** ([GitHub Profile](https://github.com/sayanadhi03)
 - [Project Structure](#-project-structure)
  - [Additional notes](#additional-notes)
  - [Algorithms index](ALGORITHMS.md)
+ - [Handwritten notes](#handwritten-notes)
 - [Getting Started](#-getting-started)
 - [Topics Covered](#-topics-covered)
 - [Code Examples](#-code-examples)
@@ -109,6 +110,8 @@ Learn C++ STL With Notes (Basic to Advance)/
 │
 ├── 📄 README.md                    # This file
 ├── 📄 STL_CheatSheet.md           # Quick reference guide
+├── 📄 C++ STL Handwritten Notes.pdf  # Final scanned handwritten STL notes
+├── 📄 C++ function types.pdf        # Handwritten notes on function types
 │
 ├── 📂 Vector_stl_note/
 │   └── 📄 LearnVector.cpp         # Complete vector operations
@@ -175,6 +178,20 @@ Learn C++ STL With Notes (Basic to Advance)/
 Run these example files to see console output and verify results against the inline comments.
 
 ---
+
+## Handwritten notes
+
+The repository includes two handwritten PDF notes that complement the code examples and explanations:
+
+- `C++ STL Handwritten Notes.pdf` — Final updated handwritten notes covering core STL concepts, container summaries, common algorithms, and annotated examples. See the file at the repository root for the complete scanned notes.
+- `C++ function types.pdf` — Focused handwritten notes about C++ function types and related concepts useful when writing STL-compatible callables and functors.
+
+How to view
+
+- Open the PDFs directly from the repository in your OS (double-click) or use your preferred PDF reader.
+- On GitHub, these files will render in-browser when pushed to the remote repository.
+
+If you'd like, I can add a short text summary or extract key pages from the handwritten notes into a plain-text `NOTES.md` for easier search and linking. Would you like that?
 
 ## 🚀 Getting Started
 
